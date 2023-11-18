@@ -415,7 +415,7 @@ public class AthenabotMechanumTeleop_Linear extends LinearOpMode {
             }
 
             /*
-
+hello :D
             if(robot.gate != null)
             {
                 if(gamepad1.x)
